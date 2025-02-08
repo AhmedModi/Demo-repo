@@ -1,3 +1,3 @@
 # Demo
 
-Some spicy description.
+Some spicy description!
