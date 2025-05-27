@@ -1,0 +1,18 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A simple Node.js dashboard for AWS Elastic Beanstalk",
+  "dependencies": {
+    "chart.js": "^3.9.1",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0"
+  }
+}
